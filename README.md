@@ -10,13 +10,14 @@
 [![](https://visitcount.itsvg.in/api?id=luisgantar1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![wakatime](https://wakatime.com/badge/user/e1241706-9910-4465-a355-9b0fe99c461b.svg)](https://wakatime.com/@e1241706-9910-4465-a355-9b0fe99c461b)
+<!-- [![wakatime](https://wakatime.com/badge/user/e1241706-9910-4465-a355-9b0fe99c461b.svg)](https://wakatime.com/@e1241706-9910-4465-a355-9b0fe99c461b) -->
+
+[![Luis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisgantar&theme=github_dark&hide_border=false)](https://wakatime.com/@luisgantar)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luisgantar1" alt="luisgantar1" />
+  <img src="https://wakatime.com/badge/user/e1241706-9910-4465-a355-9b0fe99c461b.svg" alt="Waketime stats" />
 </p>
-
-
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
