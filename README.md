@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GratiaManullang03" alt="GratiaManullang03" />
-  <img src="https://wakatime.com/badge/user/waka_5154ec9e-7e5d-4229-97f2-137d13a94923svg" alt="Waketime stats" />
+  <img src="https://komarev.com/ghpvc/?username=luisgantar1" alt="luisgantar1" />
+  <img src="https://wakatime.com/badge/user/5154ec9e-7e5d-4229-97f2-137d13a94923svg" alt="Waketime stats" />
 </p>
 
 <!--
