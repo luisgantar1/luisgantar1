@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GratiaManullang03" alt="GratiaManullang03" />
+  <img src="https://wakatime.com/badge/user/waka_5154ec9e-7e5d-4229-97f2-137d13a94923svg" alt="Waketime stats" />
+</p>
+
 <!--
 **luisgantar1/luisgantar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
